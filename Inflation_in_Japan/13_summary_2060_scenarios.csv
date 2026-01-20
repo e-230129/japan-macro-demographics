@@ -1,0 +1,5 @@
+# 2060年シナリオ比較まとめ
+scenario,jgb_trillion,boj_holdings_trillion,boj_share_pct,interest_rate_pct,interest_payment_trillion,tax_revenue_trillion,fiscal_balance_trillion,interest_tax_ratio_pct,usdjpy
+optimistic_normalization,1420,180,12.7,2.5,35.5,175,53,20.3,115-130
+baseline_status_quo,1420,720,50.7,1.5,21.3,92,-30,38.6,180-200
+pessimistic_crisis,1420,1150,81.0,2.5,35.5,50,-72,71.0,250+

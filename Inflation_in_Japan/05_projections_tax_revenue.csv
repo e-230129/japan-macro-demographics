@@ -1,0 +1,11 @@
+# 税収予測シナリオ（兆円）
+# optimistic = 楽観（インフレ2%+成長）, baseline = 現状維持, pessimistic = 悲観（デフレ回帰）
+year,tax_optimistic,tax_baseline,tax_pessimistic,optimistic_income,optimistic_corporate,optimistic_consumption
+2025,75.2,75.2,75.2,22.5,15.0,23.5
+2030,87,80,73,26,17,28
+2035,100,85,70,30,19,33
+2040,115,88,66,35,22,38
+2045,130,90,62,40,24,43
+2050,145,91,58,45,26,48
+2055,160,92,54,50,28,53
+2060,175,92,50,55,29,58

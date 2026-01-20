@@ -1,0 +1,10 @@
+# データソース一覧
+category,source,url,notes
+国債残高,財務省,https://www.mof.go.jp/,国債発行残高統計
+日銀保有,日本銀行,https://www.boj.or.jp/,営業毎旬報告
+税収,財務省,https://www.mof.go.jp/,一般会計税収推移
+歳出,財務省,https://www.mof.go.jp/,一般会計歳出
+金利,財務省・日銀,https://www.mof.go.jp/,10年国債利回り
+人口,総務省・国立社保人口研,https://www.stat.go.jp/,国勢調査・将来推計人口
+為替,Yahoo Finance,https://finance.yahoo.com/,USD/JPY終値
+インフレ率,総務省,https://www.stat.go.jp/,消費者物価指数
